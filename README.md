@@ -1,5 +1,8 @@
 # luaj
-lua java implement. copy from https://sourceforge.net/projects/luaj/
+Lightweight, fast, Java-centric Lua interpreter.
+
+** copy from https://sourceforge.net/projects/luaj/ **
+
 
 
 ## Features
